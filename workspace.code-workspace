@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "mainproject"
+		},
+		{
+			"path": "plugins"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/adrian/dev/vscode-python-roots-test/.venv/bin/python",
+		"python.analysis.logLevel": "Trace",
+		"python.autoComplete.extraPaths": [
+			"/home/adrian/dev/vscode-python-roots-test/mainproject"
+		],
+		"python.analysis.extraPaths": [
+			"/home/adrian/dev/vscode-python-roots-test/mainproject"
+		]
+	}
+}
